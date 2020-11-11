@@ -1,2 +1,2 @@
-# Data-Science-Projects-A
+# Projects
 Severals Data science projects done by me using ML and other tools
